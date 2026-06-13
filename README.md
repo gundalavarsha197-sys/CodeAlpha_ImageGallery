@@ -64,6 +64,9 @@ CodeAlpha_ImageGallery/
 This project was completed as part of my internship at CodeAlpha.
 
 ---
+## Screenshots
+<img width="1913" height="1072" alt="codal1" src="https://github.com/user-attachments/assets/a1252e82-0e88-4858-b58c-69f51544a131" />
+
 
 ## 📬 Contact
 
